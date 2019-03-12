@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1-1 (login no access permission)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4d3deac-e663-418c-935f-80b4472976cc</testCaseGuid>
+</TestCaseEntity>
