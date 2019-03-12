@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC9 (Report Unattended Customer)</name>
+   <name>TC9-2 (Cek report dengan status Confirm dan Print On Screen)</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c6fd0a66-196a-4943-964b-f30a94884154</testCaseGuid>
+   <testCaseGuid>4bd98fdc-79dd-4fa3-965f-a2f0da1d4f06</testCaseGuid>
 </TestCaseEntity>

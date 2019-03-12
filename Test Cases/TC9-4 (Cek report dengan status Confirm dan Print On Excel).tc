@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC9-4 (Cek report dengan status Confirm dan Print On Excel)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05f5e0b5-02f0-45f7-a44f-67cd5c2f2620</testCaseGuid>
+</TestCaseEntity>
