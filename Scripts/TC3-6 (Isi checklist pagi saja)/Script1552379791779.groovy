@@ -18,37 +18,35 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://10.123.2.46:9001/')
 
-WebUI.setText(findTestObject('null'), 'admhelmi')
+WebUI.setText(findTestObject('Object Repository/TC3-6/Page_Hand Over/input_Log in_userNameOrEmailAd'), 'admhelmi')
 
-WebUI.setEncryptedText(findTestObject('null'), 'RigbBhfdqOBGNlJIWM1ClA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/TC3-6/Page_Hand Over/input_Log in_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TC3-6/Page_Hand Over/button_Log in'))
 
-WebUI.click(findTestObject('null'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TC3-6/Page_Hand Over/span_Master'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TC3-6/Page_Hand Over/span_Master Mapping'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TC3-6/Page_Hand Over/a_12'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TC3-6/Page_Hand Over/span_Pagi_ui-chkbox-icon ui-cl'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TC3-6/Page_Hand Over/span_Siang_ui-chkbox-icon ui-c'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TC3-6/Page_Hand Over/span_Save'))
+
+WebUI.click(findTestObject('Object Repository/TC3-6/Page_Hand Over/button_OK'))
 
 WebUI.closeBrowser()
 
