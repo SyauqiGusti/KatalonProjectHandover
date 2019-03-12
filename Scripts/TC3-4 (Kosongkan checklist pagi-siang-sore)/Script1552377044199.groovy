@@ -32,6 +32,8 @@ WebUI.delay(4)
 
 WebUI.click(findTestObject('Object Repository/TC3-4/Page_Hand Over/span_Master Mapping'))
 
+WebUI.delay(4)
+
 WebUI.click(findTestObject('Object Repository/TC3-4/Page_Hand Over/a_12'))
 
 WebUI.delay(4)
