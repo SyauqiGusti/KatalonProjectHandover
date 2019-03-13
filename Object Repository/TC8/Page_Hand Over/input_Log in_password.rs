@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Log in_password</name>
    <tag></tag>
-   <elementGuidId>94589768-d7ae-4d68-b951-1db28e0acd83</elementGuidId>
+   <elementGuidId>fec06210-0f22-4afd-bae3-f7dbccb29cbe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

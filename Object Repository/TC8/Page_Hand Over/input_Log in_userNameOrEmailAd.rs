@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Log in_userNameOrEmailAd</name>
    <tag></tag>
-   <elementGuidId>24b38d4a-ab13-4eb5-a236-b8c246f83852</elementGuidId>
+   <elementGuidId>3099a367-050e-49d2-be37-f5e8de058cc9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

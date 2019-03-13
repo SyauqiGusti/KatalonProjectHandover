@@ -24,63 +24,61 @@ WebUI.setEncryptedText(findTestObject('TC8/Page_Hand Over/input_Log in_password'
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/button_Log in'))
 
-WebUI.delay(3)
-
 WebUI.click(findTestObject('TC8/Page_Hand Over/span_Report'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/span_Report HandOver Schedule'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/input_Period_periodDate'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/th_'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/td_1'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/input_Period_periodDateEnd'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/td_28'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/span_Nothing Selected'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
-WebUI.click(findTestObject('TC8/Page_Hand Over/span_Not Confirm'))
+WebUI.click(findTestObject('TC8/Page_Hand Over/span_Confirm'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
-WebUI.selectOptionByValue(findTestObject('TC8/Page_Hand Over/select_Nothing Selected'), '0', true)
+WebUI.selectOptionByValue(findTestObject('TC8/Page_Hand Over/select_Nothing Selected'), '1', true)
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/span_Choose Print On'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/span_Screen'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.selectOptionByValue(findTestObject('TC8/Page_Hand Over/select_Choose Print On'), '1', true)
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('TC8/Page_Hand Over/span_Save'))
 
-WebUI.delay(5)
+WebUI.delay(4)
 
 WebUI.closeBrowser()
 

@@ -3,7 +3,7 @@
    <description></description>
    <name>select_Nothing Selected</name>
    <tag></tag>
-   <elementGuidId>fee1ffcc-5368-4618-aea2-e3a9ae5a532d</elementGuidId>
+   <elementGuidId>8f468247-4be0-4229-a7c6-ec307c49a5ad</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -76,7 +76,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;m-page--fluid m--skin-light2 m-page--loading m-content--skin-light2 m-header--fixed  m-aside-left--fixed   m-aside-left--enabled m-aside-left--skin-light m-aside-left--offcanvas&quot;]/app-root[1]/ng-component[1]/div[@class=&quot;m-grid m-grid--hor m-grid--root m-page&quot;]/div[@class=&quot;m-grid__item m-grid__item--fluid m-grid m-grid--ver-desktop m-grid--desktop m-body&quot;]/div[@class=&quot;m-grid__item m-grid__item--fluid m-wrapper&quot;]/ng-component[@class=&quot;ng-tns-c3-1&quot;]/div[@class=&quot;ng-tns-c3-1 ng-trigger ng-trigger-routerTransition&quot;]/div[@class=&quot;m-content&quot;]/div[@class=&quot;m-portlet&quot;]/form[@class=&quot;ng-tns-c3-1 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;m-portlet__body  m-portlet__body--no-padding&quot;]/div[@class=&quot;m-portlet__body&quot;]/div[@class=&quot;form-group m-form__group row&quot;]/div[@class=&quot;col-sm-10 row ng-tns-c3-1&quot;]/div[@class=&quot;col-sm-5&quot;]/status-combo[@class=&quot;ng-tns-c3-1 ng-untouched ng-pristine ng-invalid&quot;]/div[1]/div[@class=&quot;btn-group bootstrap-select form-control ng-untouched ng-pristine ng-valid dropup show&quot;]/select[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
+      <value>/html[1]/body[@class=&quot;m-page--fluid m--skin-light2 m-page--loading m-content--skin-light2 m-header--fixed m-aside-left--fixed m-aside-left--enabled m-aside-left--skin-light m-aside-left--offcanvas&quot;]/app-root[1]/ng-component[1]/div[@class=&quot;m-grid m-grid--hor m-grid--root m-page&quot;]/div[@class=&quot;m-grid__item m-grid__item--fluid m-grid m-grid--ver-desktop m-grid--desktop m-body&quot;]/div[@class=&quot;m-grid__item m-grid__item--fluid m-wrapper&quot;]/ng-component[@class=&quot;ng-tns-c3-1&quot;]/div[@class=&quot;ng-tns-c3-1 ng-trigger ng-trigger-routerTransition&quot;]/div[@class=&quot;m-content&quot;]/div[@class=&quot;m-portlet&quot;]/form[@class=&quot;ng-tns-c3-1 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;m-portlet__body  m-portlet__body--no-padding&quot;]/div[@class=&quot;m-portlet__body&quot;]/div[@class=&quot;form-group m-form__group row&quot;]/div[@class=&quot;col-sm-10 row ng-tns-c3-1&quot;]/div[@class=&quot;col-sm-5&quot;]/status-combo[@class=&quot;ng-tns-c3-1 ng-untouched ng-pristine ng-invalid&quot;]/div[1]/div[@class=&quot;btn-group bootstrap-select form-control ng-untouched ng-pristine ng-valid show&quot;]/select[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
